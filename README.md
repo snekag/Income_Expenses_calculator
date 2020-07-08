@@ -1,4 +1,4 @@
-# income expense calculator
+# Income Expense Calculator
 Calculate your Total Income and Expenses from the Bank Transactions using bloc pattern with Pie_chart
 
 ## Installation of SMS Plugin
