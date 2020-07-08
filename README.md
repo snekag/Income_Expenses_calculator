@@ -1,7 +1,7 @@
 # income expense calculator
 Calculate your Total Income and Expenses from the Bank Transactions using bloc pattern with Pie_chart
 
-##Installation
+#Installation
 
 1.Use the package [sms](https://pub.dev/packages/sms#:~:text=SMS%20library%20for%20Flutter%20applications,functional%20sms%20app%20in%20Flutter.) to fetch the messages from Inbox
 2.Use the package [pie_chart](https://pub.dev/packages/pie_chart#-installing-tab-) to draw the pie_chart
